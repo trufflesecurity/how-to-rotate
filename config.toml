@@ -1,0 +1,21 @@
+languageCode = "en-us"
+title = "How to Rotate Leaked API Keys"
+theme = "compose"
+googleAnalytics = "UA-156996166-1"
+# (Optional) Set this to true to enable 'Last Modified by' date and git author
+#  information on 'doc' type pages
+enableGitInfo = true
+enableRobotsTXT = true
+
+[params]
+    author.name = "Truffle Security Co."
+    author.url = "https://trufflesecurity.com"
+    logo.darkMode = "images/docs-logo-light.svg"
+    logo.lightMode = "images/docs-logo-dark.svg"
+    companylogo.darkMode = "images/truffle-logo-light.svg"
+    companylogo.lightMode = "images/truffle-logo-dark.svg"
+    customCSS.darkMode = "/css/overrides.css"
+    customCSS.lightMode = "/css/overrides.css"
+
+[outputs]
+   home = ["HTML", "RSS", "JSON"]
