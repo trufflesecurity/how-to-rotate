@@ -2,8 +2,7 @@
 
 How to Rotate is an open-source collection of API key rotation tutorials (including AWS, GitHub, Mailchimp and more). Visit [howtorotate.com](https://howtorotate.com) to view the live site. Read about [why we created this repo](https://trufflesecurity.com/blog/how-to-rotate-key-rotation-tutorials/).
 
-<img width="1101" alt="image" src="https://github.com/trufflesecurity/how-to-rotate/assets/3084554/aba66456-44d8-468d-a08c-fcbb679da4c6">
-
+<img width="1114" alt="image" src="https://github.com/trufflesecurity/how-to-rotate/assets/3084554/3ffa28d3-5f19-4e9c-ace5-aa72ea2bf90d">
 
 
 ## Contributing
