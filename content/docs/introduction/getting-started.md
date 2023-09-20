@@ -5,7 +5,7 @@ weight: 1
 
 Welcome to [**How To Rotate**](https://github.com/trufflesecurity/how-to-rotate), an open-source collection of API Key Rotation tutorials. Each tutorial provides step-by-step instructions on how to remediate a leaked API key security vulnerability by (1) Generating a new API key, (2) Replacing the compromised key, and (3) Revoking the compromised key.
 
-To get started, click on a key rotation tutorial for a specific SaaS provider below or [read more about key rotation](/docs/introduction/key-rotation-101.md).
+To get started, click on a key rotation tutorial for a specific SaaS provider below or [read more about key rotation](/docs/introduction/key-rotation-101).
 |||
 |-|-|-|
 |[Airbrake](/docs/tutorials/airbrake)|[Atlassian](/docs/tutorials/atlassian)|[AWS](/docs/tutorials/aws)|
