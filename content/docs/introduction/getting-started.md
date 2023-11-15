@@ -14,7 +14,8 @@ To get started, click on a key rotation tutorial for a specific SaaS provider be
 |[MongoDB](/docs/tutorials/mongo)|[Netlify](/docs/tutorials/netlify)|[NPM](/docs/tutorials/npm)|
 |[Sendbird](/docs/tutorials/sendbird)|[Sendgrid](/docs/tutorials/sendgrid)|[Slack](/docs/tutorials/slack)|
 |[Slack Webhook](/docs/tutorials/slack-webhook)|[Sourcegraph](/docs/tutorials/sourcegraph)|[Square](/docs/tutorials/square)
-|[Stripe](/docs/tutorials/stripe)|[Sumo Logic](/docs/tutorials/sumologic)|[Twilio](/docs/tutorials/twilio)||
+|[Stripe](/docs/tutorials/stripe)|[Sumo Logic](/docs/tutorials/sumologic)|[Tailscale](/docs/tutorials/tailscale)
+|[Twilio](/docs/tutorials/twilio)||
 
 ---
 
