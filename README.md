@@ -5,7 +5,12 @@ How to Rotate is an open-source collection of API key rotation tutorials (includ
 <img width="1114" alt="image" src="https://github.com/trufflesecurity/how-to-rotate/assets/3084554/3ffa28d3-5f19-4e9c-ace5-aa72ea2bf90d">
 
 ## Contributing
+
 We welcome contributions from the community! If you have a tutorial you'd like to add, please submit a pull request (see [CONTRIBUTING](https://github.com/trufflesecurity/how-to-rotate/blob/main/CONTRIBUTING.md) for more details). If you'd like to suggest a tutorial, please open an issue.
+
+## Rotation Guide Name
+
+Please name the rotation guide file to roughly match a [detector type](https://github.com/trufflesecurity/trufflehog/blob/main/proto/detectors.proto).
 
 ## Running Locally?
 

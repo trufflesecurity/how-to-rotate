@@ -10,7 +10,7 @@ To get started, click on a key rotation tutorial for a specific SaaS provider be
 |-|-|-|
 |[Airbrake](/docs/tutorials/airbrake)|[Atlassian](/docs/tutorials/atlassian)|[AWS](/docs/tutorials/aws)|
 [Azure](/docs/tutorials/azure)|[GCP](/docs/tutorials/gcp)|[GitHub](/docs/tutorials/github)|
-|[GitLab](/docs/tutorials/gitlab)|[Mailchimp](/docs/tutorials/mailchimp)|[Microsoft Teams](/docs/tutorials/ms)|
+|[GitLab](/docs/tutorials/gitlab)|[Mailchimp](/docs/tutorials/mailchimp)|[Microsoft Teams](/docs/tutorials/microsoftteams)|
 |[MongoDB](/docs/tutorials/mongo)|[Netlify](/docs/tutorials/netlify)|[NPM](/docs/tutorials/npm)|
 |[Sendbird](/docs/tutorials/sendbird)|[Sendgrid](/docs/tutorials/sendgrid)|[Slack](/docs/tutorials/slack)|
 |[Slack Webhook](/docs/tutorials/slack-webhook)|[Sourcegraph](/docs/tutorials/sourcegraph)|[Square](/docs/tutorials/square)
