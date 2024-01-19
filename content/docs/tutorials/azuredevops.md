@@ -25,7 +25,9 @@ Under `User Settings`, click on `Personal Access Tokens`.
 Click on the any token and the `Revoke`, `Edit`, and `Regenerate` actions will appear. If you click on `Edit` will reveal that tokens's information. Ensure you're rotating the correct token.
 ![](/images/azuredevops/3.png)
 Confirm the token regeneration action by clicking `Regenerate`.
+
 ![](/images/azuredevops/4.png)
+
 You'll see a message at the top indicating that you "Successfully added a new personal access token".
 
 ![](/images/azuredevops/5.png)
