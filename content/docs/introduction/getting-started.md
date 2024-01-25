@@ -19,7 +19,7 @@ To get started, click on a key rotation tutorial for a specific SaaS provider be
 
 ---
 
-This project is sponsored by Truffle Security, the creators of [TruffleHog](https://github.com/trufflesecurity/trufflehog). The initial 19 tutorials align to the API keys and secrets that we see leaked most commonly. We welcome PRs for new key rotation tutorials. If there is a SaaS provider that you'd like to document the key rotation process for, please follow our [CONTRIBUTING](https://github.com/trufflesecurity/how-to-rotate/blob/main/CONTRIBUTING.md) guidlines.
+This project is sponsored by Truffle Security, the creators of [TruffleHog](https://github.com/trufflesecurity/trufflehog). The tutorials align to the API keys and secrets that we see leaked most commonly. We welcome PRs for new key rotation tutorials. If there is a SaaS provider that you'd like to document the key rotation process for, please follow our [CONTRIBUTING](https://github.com/trufflesecurity/how-to-rotate/blob/main/CONTRIBUTING.md) guidlines.
 
 ## About Truffle Security
 
