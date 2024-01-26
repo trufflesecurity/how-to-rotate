@@ -33,10 +33,6 @@ jobs:
     env:
       HUGO_VERSION: 0.118.2
     steps:
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: python generate-table.py
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
