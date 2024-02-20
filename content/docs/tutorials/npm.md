@@ -20,6 +20,7 @@ Provide a name and select a token type.
 ![](/images/npm/4.png)
 #### 2c. Click `Generate Token`
 ![](/images/npm/5.png)
+
 ---
 
 ## Replace the Leaked NPM Access Token

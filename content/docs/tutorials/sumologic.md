@@ -8,7 +8,9 @@ title: Sumo Logic
 
 ## Deactivate a Sumo Logic Access Key
 
-### Step 1 - Login to your Sumo Logic Account: https://service.sumologic.com/ui/
+### Step 1 - Login to your Sumo Logic Account
+https://service.sumologic.com/ui/
+
 ### Step 2 - Click your name in the left navigation bar from the Sumo Logic Dashboard
 ![](/images/sumo-logic/1.png)
 
