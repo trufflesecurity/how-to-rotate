@@ -44,6 +44,8 @@ Replace the leaked GCP API Key with the new one in all impacted applications and
 ---
 ## Revoke the Leaked GCP API Key
 
+#### *Note: deleting the project that contains the key, does not ensure swift deactivation of that key. GCP services and traffic can remain active up to 30 days after scheduling a project for deletion*
+
 ### Step 1 - Navigate to the relevant Service Account page
 #### 1a. Navigate to the impacted GCP project
 #### 1b. Click on the `IAM & Admin` tab
