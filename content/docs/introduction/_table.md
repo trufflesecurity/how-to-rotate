@@ -9,4 +9,4 @@
 [Sendbird](/docs/tutorials/sendbird)|[Sendgrid](/docs/tutorials/sendgrid)|[Slack Webhook](/docs/tutorials/slack-webhook)|
 [Slack](/docs/tutorials/slack)|[Sourcegraph](/docs/tutorials/sourcegraph)|[Square](/docs/tutorials/square)|
 [Stripe](/docs/tutorials/stripe)|[Sumo Logic](/docs/tutorials/sumologic)|[Tailscale](/docs/tutorials/tailscale)|
-[Twilio](/docs/tutorials/twilio)|
+[Twilio](/docs/tutorials/twilio)|[Groq](/docs/tutorials/groq)
