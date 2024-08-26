@@ -1,5 +1,6 @@
 ---
 title: Microsoft Teams
+aliases: ["/docs/tutorials/ms"]
 ---
 
 *This tutorial provides step-by-step instructions on how to rotate a Microsoft Teams Webhook.*
