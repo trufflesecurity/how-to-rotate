@@ -11,3 +11,4 @@
 [Slack Webhook](/docs/tutorials/slack-webhook)|[Sourcegraph](/docs/tutorials/sourcegraph)|[Square](/docs/tutorials/square)|
 [Stripe](/docs/tutorials/stripe)|[Sumo Logic](/docs/tutorials/sumologic)|[Tailscale](/docs/tutorials/tailscale)|
 [Twilio](/docs/tutorials/twilio)|
+[VTEX](/docs/tutorials/vtex)|
