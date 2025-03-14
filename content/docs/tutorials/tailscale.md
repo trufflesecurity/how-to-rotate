@@ -8,15 +8,17 @@ title: Tailscale
 
 ## Generate a new Tailscale Auth Key or API Access Token
 
-### Step 1 - Navigate to the [Keys](https://login.tailscale.com/admin/settings/keys) page
+### Step 1 - Navigate to the Keys page
+Keys page found at <https://login.tailscale.com/admin/settings/keys>
+
 As an administrator, click on "Settings" under the top navbar. Then click "Keys" under "Personal Settings" on the left-hand navbar.
 
 ![](/images/tailscale/1.png)
 
 ### Step 2 - Generate a new Auth Key or API Access Token
-#### 2a. Click "Generate..."
+#### Step 2a - Click "Generate..."
 Click on the "Generate..." button under the "Auth Keys" or "API Access Tokens" section.
-#### 2b. Configure the Key
+#### Step 2b - Configure the Key
 The API Access Token provides users with two settings: `description` and `expiration`. Fill out those values and then click `Generate access token`.
 
 ![](/images/tailscale/2.png)
@@ -25,7 +27,7 @@ The Auth Key provides users with four settings: `description`, `reusability`, `e
 
 ![](/images/tailscale/3.png)
 
-#### 2c. Copy the Key
+#### Step 2c - Copy the Key
 
 ![](/images/tailscale/4.png)
 
@@ -38,7 +40,9 @@ Replace the leaked Tailscale Auth Key or API Access Token with the new one in al
 
 ## Revoke the Leaked Tailscale Auth Keys and API Access Tokens
 
-### Step 1 - Navigate to the [Keys](https://login.tailscale.com/admin/settings/keys) page
+### Step 1 - Navigate to the Keys page
+Keys page found at <https://login.tailscale.com/admin/settings/keys>Keys page found at <https://login.tailscale.com/admin/settings/keys>
+
 As an administrator, click on "Settings" under the top navbar. Then click "Keys" under "Personal Settings" on the left-hand navbar.
 
 ![](/images/tailscale/1.png)
