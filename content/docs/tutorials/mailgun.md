@@ -17,7 +17,7 @@ Click on "Create key" in the top-right corner to generate your new API Key
 ![](/images/mailgun/1.png)
 
 #### 2b. Provide an "API Key Name" and click on "Create Key"
-![](/images/mailchimp/2.png)
+![](/images/mailgun/2.png)
 
 ### Step 3 - Copy the new key
 Copy the new key manually or by selecting the "Copy to Clipboard" button. Then, click "Done".
@@ -27,7 +27,7 @@ Copy the new key manually or by selecting the "Copy to Clipboard" button. Then, 
 ---
 
 ## Replace the Leaked Mailgun API Key
-Replace the leaked Mailgun API with the new one in all impacted applications and services.
+Replace the leaked Mailgun API key with the new one in all impacted applications and services.
 
 ---
 
@@ -39,11 +39,11 @@ Navigate to https://app.mailgun.com/settings/api_security.
 ### Step 2 - Revoke the Mailgun API Key
 #### 2a. Delete the API Key
 Click on the trash can icon next to the key that you need to delete
-![](/images/mailchimp/3.png)
+![](/images/mailgun/3.png)
 
 #### 2b. Confirm deletion
 Click on "Delete" to confirm deletion of the given API key
-![](/images/mailchimp/4.png)
+![](/images/mailgun/4.png)
 
 ---
 
