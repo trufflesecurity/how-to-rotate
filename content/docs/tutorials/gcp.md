@@ -2,10 +2,10 @@
 title: GCP
 ---
 
-*This tutorial provides step-by-step instructions on how to rotate a Google Cloud Platform (GCP) API key.*
+*This tutorial provides step-by-step instructions on how to rotate a Google Cloud Platform (GCP) Service Account key.*
 
 ---
-## Generate a new GCP API Key
+## Generate a new GCP Service Account Key
 
 ### Step 1 - Navigate to the relevant Service Account page
 #### 1a. Navigate to the impacted GCP project
@@ -19,12 +19,12 @@ In the `IAM & Admin` tab dropdown, click on `Service Accounts` to view your exis
 
 ![](/images/gcp/2.png)
 
-Click on the service account you want to create the API key for.
+Click on the service account you want to create the Service Account key for.
 
 ![](/images/gcp/3.png)
 
 
-### Step 2 - Generate a new GCP API key
+### Step 2 - Generate a new GCP Service Account key
 
 #### 2a. Create a new key
 Click on the `Keys` tab. Click on the `Add Key` button and then select `Create new key`.
@@ -33,16 +33,16 @@ Click on the `Keys` tab. Click on the `Add Key` button and then select `Create n
 Choose the key type (`JSON` or `P12`) and click `Create`.
 ![](/images/gcp/5.png)
 #### 2c. New key automatically downloads to your computer
-The new API key will be downloaded to your computer. Make sure to store it in a secure location.
+The new Service Account key will be downloaded to your computer. Make sure to store it in a secure location.
 ![](/images/gcp/6.png)
 
 ---
-## Replace the Leaked GCP API Key
+## Replace the Leaked GCP Service Account Key
 
-Replace the leaked GCP API Key with the new one in all impacted applications and services.
+Replace the leaked GCP Service Account Key with the new one in all impacted applications and services.
 
 ---
-## Revoke the Leaked GCP API Key
+## Revoke the Leaked GCP Service Account Key
 
 #### *Note: deleting the project that contains the key, does not ensure swift deactivation of that key. GCP services and traffic can remain active up to 30 days after scheduling a project for deletion*
 
@@ -58,13 +58,13 @@ In the `IAM & Admin` tab dropdown, click on `Service Accounts` to view your exis
 
 ![](/images/gcp/2.png)
 
-Click on the service account you want to revoke the API key for.
+Click on the service account you want to revoke the Service Account key for.
 
 ![](/images/gcp/3.png)
 
 
 
-### Step 2 - Revoke the leaked GCP API key
+### Step 2 - Revoke the leaked GCP Service Account key
 
 #### 2a. Delete the relevant key
 Click on the `Keys` tab. Click on the `Delete` icon at the end of the row of the key you want to delete. 
@@ -77,4 +77,4 @@ A message will pop up informing you that the key has been deleted.
 
 ---
 ## Resources
-- [GCP API Key Documentation](https://cloud.google.com/docs/authentication/api-keys#introduction)
+- [GCP Service Account Key Documentation](https://cloud.google.com/iam/docs/keys-create-delete)

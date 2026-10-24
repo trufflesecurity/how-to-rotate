@@ -2,48 +2,50 @@
 title: VTEX
 ---
 
-*This tutorial provides step-by-step instructions on how to rotate a VTEX Application Key.*
+*This tutorial provides step-by-step instructions on how to rotate a VTEX API Key.*
 
 ---
 
-## Generate a new VTEX Application Key
+## Generate a new VTEX API Key
 
-### Step 1 - Navigate to the Application Key page
-Log into your VTEX admin account and navigate to `https://{accountName}.myvtex.com/admin/appkeys`.
+### Step 1 - Navigate to the API Keys page
+Log into your VTEX admin account and navigate to `https://{accountName}.myvtex.com/admin/api-keys`.
 ![](/images/vtex/1.gif)
 
-### Step 2 - Generate a new Application Key
-#### 2a. Click `Manage My Keys`
+### Step 2 - Generate a new API Key
+#### 2a. Click `Generate Key`
 ![](/images/vtex/2.png)
-#### 2b. Click `Generate New`
-![](/images/vtex/3.png)
-#### 2c. Provide a `Label`, add roles and click `Generate`
-![](/images/vtex/4.gif)
-#### 2d. Copy the application token
+#### 2b. Provide `Key identification`, add roles and click `Generate`
+![](/images/vtex/3.gif)
+#### 2c. Copy the token unique access link
+![](/images/vtex/4.png)
+#### 2d. Navigate to the token unique access link
+Go to the link generated in the previous step, in the format `https://share.vtex.com/credentials/{token}`, where `token` is a random identifier generated when the key is created.
+#### 2e. Copy the `Key` and the `New token` and store it somewhere safe
+
+---
+
+## Replace the Leaked VTEX API Key
+Replace the leaked VTEX API Key with the new one in all impacted applications and services.
+
+---
+
+## Revoke the Leaked VTEX API Key
+
+### Step 1 - Navigate to the API Keys page
+Log into your VTEX admin account and navigate to `https://{accountName}.myvtex.com/admin/api-keys`.
+![](/images/vtex/1.gif)
+
+### Step 2 - Revoke the VTEX API Key
+#### 2a. Click `Delete Key`
+Find the row of the API Key you want to delete and click the ellipsis menu `⋮`, then click the `Delete Key` menu option.
 ![](/images/vtex/5.png)
-
----
-
-## Replace the Leaked VTEX Application Key
-Replace the leaked VTEX Application Key with the new one in all impacted applications and services.
-
----
-
-## Revoke the Leaked VTEX Application Key
-
-### Step 1 - Navigate to the Application Key page
-Log into your VTEX admin account and navigate to `https://{accountName}.myvtex.com/admin/appkeys`.
-![](/images/vtex/1.gif)
-
-### Step 2 - Revoke the VTEX Application Key
-#### 2a. Click `Manage My Keys`
-![](/images/vtex/2.png)
-#### 2b. Click `Deactivate`
-Click the `Deactivate` menu option in the row corresponding to the Application Key you want to deactivate.
+#### 2b. Confirm deletion
+Check `I understand that this action cannot be undone` and click `Delete` to confirm.
 ![](/images/vtex/6.png)
 
 ---
 
 ## Resources
-- [VTEX Application Key Documentation](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
-- [VTEX Application Key Best Practices](https://help.vtex.com/en/tutorial/best-practices-application-keys--7b6nD1VMHa49aI5brlOvJm)
+- [VTEX API Key Documentation](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
+- [VTEX API Key Best Practices](https://help.vtex.com/en/tutorial/best-practices-api-keys--7b6nD1VMHa49aI5brlOvJm)
