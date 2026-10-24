@@ -1,6 +1,6 @@
 |||
 |-|-|-|
-[Airbrake](/docs/tutorials/airbrake)|[Atlassian](/docs/tutorials/atlassian)|[AWS](/docs/tutorials/aws)|
+[AWS](/docs/tutorials/aws)|[Airbrake](/docs/tutorials/airbrake)|[Atlassian](/docs/tutorials/atlassian)|
 [Azure DevOps](/docs/tutorials/azuredevops)|[Azure Function](/docs/tutorials/azurefunctionkey)|[Azure Search Admin](/docs/tutorials/azuresearchadmin)|
 [Azure Search Query](/docs/tutorials/azuresearchquery)|[Azure Storage](/docs/tutorials/azure)|[Eleven Labs](/docs/tutorials/elevenlabs)|
 [Eraser](/docs/tutorials/eraser)|[Flexport](/docs/tutorials/flexport)||
